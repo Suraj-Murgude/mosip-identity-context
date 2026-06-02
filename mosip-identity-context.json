@@ -21,7 +21,7 @@
       }
     },
     "firstName": {
-      "@id": "schema:name",
+      "@id": "schema:firstName",
       "@container": "@set",
       "@context": {
         "language": "@language",
@@ -29,7 +29,7 @@
       }
     },
     "lastName": {
-      "@id": "schema:name",
+      "@id": "schema:lastName",
       "@container": "@set",
       "@context": {
         "language": "@language",
