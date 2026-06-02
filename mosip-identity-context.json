@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "mosipid": "https://inji.github.io/inji-config/contexts/mosip-identity-context.json#",
+    "mosipid": " https://Suraj-Murgude/mosip-identity-context/mosip-identity-context.json#",
     "MOSIPVerifiableCredential": {
       "@id": "mosipid:MOSIPVerifiableCredential"
     },
