@@ -117,20 +117,6 @@
       "@id": "mosipid:claim169",
       "@container": "@index",
       "@type": "schema:Text"
-    },
-
-    "nationalInsuranceBoard": {
-      "@id": "mosipid:nationalInsuranceBoard",
-      "@type": "xsd:string"
-    },
-
-    "constituency": {
-      "@id": "mosipid:constituency",
-      "@container": "@set",
-      "@context": {
-        "language": "@language",
-        "value": "@value"
-      }
     }
   }
 }
